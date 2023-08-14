@@ -22,7 +22,10 @@
 
 <a href="https://www.linkedin.com/in/ahmed-hesham-6b1959220/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Hesham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Ahmed7esham" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Hesham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://www.instagram.com/ahmed_hescham/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Hesham-0077B5?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/ahmed_hescham/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Hesham-0077B5?style=for-the-badge&logo=Instagram&logoColor=orange"/></a>
+<a href="https://codeforces.com/group/MWSDmqGsZm/contests" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Hesham-0077B5?style=for-the-badge&logo=Codeforces&logoColor=yellow"/></a>
+<a href="https://leetcode.com/ahmedh246891/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Hesham-0077B5?style=for-the-badge&logo=Leetcode&logoColor=red"/></a>
+<a href="https://www.codewars.com/users/Ahmed_Hesham" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Hesham-0077B5?style=for-the-badge&logo=Codewars&logoColor=red"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
