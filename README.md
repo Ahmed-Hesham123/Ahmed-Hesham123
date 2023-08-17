@@ -31,7 +31,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![PugJS](https://img.shields.io/badge/-PugJs-05122A?style=flat&logo=pugJS)&nbsp;
+![PugJS](https://img.shields.io/badge/-Pug-05122A?style=flat&logo=pug)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=gulp)&nbsp;
@@ -43,7 +43,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQLDB)&nbsp;
 ![Algorithms](https://img.shields.io/badge/-Algorithms-05122A?style=flat&logo=algorithms)&nbsp;
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=cplusplus)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap%20-05122A?style=flat&logo=bootstrap)&nbsp;
