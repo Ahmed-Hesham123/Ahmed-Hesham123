@@ -52,11 +52,21 @@
 
 
 
-
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Hesham123&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
 <a href="https://komarev.com/ghpvc/?username=Ahmed-Hesham123&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=Ahmed-Hesham123&style=for-the-badge">
+</a>
+
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Hesham123&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Hesham123&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Hesham123&repo=github-readme-stats&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Hesham123&repo=anuraghazra.github.io&theme=radical" />
 </a>
