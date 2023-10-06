@@ -33,6 +33,8 @@
 ![Gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=gulp)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![PugJS](https://img.shields.io/badge/-Pug-05122A?style=flat&logo=pug)&nbsp;
+![PugJS](https://img.shields.io/badge/-EJS-05122A?style=flat&logo=EJS)&nbsp;
+![PugJS](https://img.shields.io/badge/-Handlebars-05122A?style=flat&logo=Handlebars)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
