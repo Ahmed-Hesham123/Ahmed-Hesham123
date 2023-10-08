@@ -49,8 +49,6 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQLDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop%20-05122A?style=flat&logo=adobephotoshop)&nbsp;
-![Adobe-XD](https://img.shields.io/badge/-AdobeXD%20-05122A?style=flat&logo=adobeXD)&nbsp;
 
 
 
