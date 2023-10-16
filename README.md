@@ -28,26 +28,26 @@
 <a href="https://www.instagram.com/ahmed_hescham/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Hesham-0077B5?style=for-the-badge&logo=Instagram&logoColor=orange"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Algorithms](https://img.shields.io/badge/-Algorithms-05122A?style=flat&logo=algorithms)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=gulp)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![PugJS](https://img.shields.io/badge/-Pug-05122A?style=flat&logo=pug)&nbsp;
-![PugJS](https://img.shields.io/badge/-EJS-05122A?style=flat&logo=EJS)&nbsp;
-![PugJS](https://img.shields.io/badge/-Handlebars-05122A?style=flat&logo=Handlebars)&nbsp;
+![EJS](https://img.shields.io/badge/-EJS-05122A?style=flat&logo=ejs)&nbsp;
+![Handlebars](https://img.shields.io/badge/-Handlebars-05122A?style=flat&logo=Handlebars)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=339933)&nbsp;
+![MySQL.js](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=Mysql&logoColor=339933)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=cplusplus)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQLDB)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=339933)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 
 
