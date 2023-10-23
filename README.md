@@ -41,7 +41,8 @@
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js&logoColor=339933)&nbsp;
-![MySQL.js](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=Mysql&logoColor=339933)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=Mysql&logoColor=339933)&nbsp;
+![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize&logoColor=339933)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
