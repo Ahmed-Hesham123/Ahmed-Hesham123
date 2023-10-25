@@ -16,6 +16,7 @@
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://(under construction...) to see some of the projects I've worked on.
+- 语言 Arabic (Native) - English (B1) - Germany (A2) - Chinese (A1)
 
 
 ### Connect with Me :
