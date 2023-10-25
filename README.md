@@ -26,7 +26,7 @@
 <a href="https://www.codewars.com/users/Ahmed_Hesham" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Hesham-0077B5?style=for-the-badge&logo=Codewars&logoColor=red"/></a>
 <a href="https://t.me/Ahmed7esham" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Hesham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://www.instagram.com/ahmed_hescham/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Hesham-0077B5?style=for-the-badge&logo=Instagram&logoColor=orange"/></a>
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Gulp](https://img.shields.io/badge/-Gulp-05122A?style=flat&logo=gulp)&nbsp;
@@ -62,9 +62,13 @@
 | <a href="https://github.com/Ahmed-Hesham123"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Hesham123&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Ahmed's github stats" /></a> | <a href="https://github.com/Ahmed-Hesham123"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Hesham123&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
+## Top Repositories
 
 
 <a href="https://github.com/Ahmed-Hesham123">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Hesham123&repo=Algorithms-DataStructure&theme=radical" />
 </a>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ahmed-Hesham123&theme=flat&no-frame=false&no-bg=true&margin-w=4)
